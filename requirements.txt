@@ -1,0 +1,15 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.35.0
+tqdm>=4.65.0
+
+# LangChain for SAGE framework
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# Optional: for specific models
+# accelerate>=0.25.0
+# bitsandbytes>=0.41.0
+
+# Data processing
+numpy>=1.24.0
